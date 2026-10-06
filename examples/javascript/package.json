@@ -1,0 +1,8 @@
+{
+  "name": "selector-map-web-scraper-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the No-Code CSS Selector Web Scraper — URL + Field Map to JSON Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
